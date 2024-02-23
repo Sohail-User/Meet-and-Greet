@@ -1,0 +1,8 @@
+another demo file
+2 make two branches named dev  and production
+2. developer pc ssh configuration through which commit changes to the code
+3. when a commit is made in dev branch 
+4. dev server should be able to make a pull
+5. merge request from dev branch to production
+6. dev code merge with  production code
+7. pull  from production server
